@@ -50,41 +50,6 @@ Essa experiência reforça que a combinação de estudo prático, busca ativa po
 
 ---
 
-### **⚙️ Como Rodar o Projeto (Localmente):**
-
-1.  **Clone este repositório:**
-    ```bash
-    git clone [https://github.com/miriaamaral/JS-Jogo-YuGiOh.git](https://github.com/miriaamaral/JS-Jogo-YuGiOh.git)
-    ```
-2.  **Entre na pasta do projeto:**
-    ```bash
-    cd JS-Jogo-YuGiOh
-    ```
-3.  **Abra o arquivo `index.html` no seu navegador.**
-    * Para uma experiência de desenvolvimento local mais robusta (com live-reload), considere usar a extensão "Live Server" no VS Code.
-
----
-
-### **🤝 Como Contribuir:**
-
-Sinta-se à vontade para explorar o código, sugerir novas features (como mais cartas, outros tipos de monstros, efeitos de feitiço!), otimizações ou correções de bugs! Toda contribuição é bem-vinda e apreciada! ✨
-
-Para contribuir:
-
-1.  Faça um `fork` deste repositório.
-2.  Crie uma nova `branch` para sua feature (`git checkout -b feature/minha-feature`).
-3.  Faça suas alterações e `commit` as mudanças (`git commit -m 'feat: minha nova feature'`).
-4.  Envie para sua `branch` (`git push origin feature/minha-feature`).
-5.  Abra um `Pull Request` detalhando suas alterações.
-
-Vamos juntos nessa jornada de aprendizado e diversão! 🚀💻
-
----
-
-### **📝 Licença:**
-
-Este projeto está sob a licença MIT.
-
 
 Vamos juntos construir o futuro da tecnologia! ✨
 
